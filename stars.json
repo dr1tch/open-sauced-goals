@@ -1,85 +1,85 @@
 [
   {
     "full_name": "wesbos/who-blue",
-    "stargazers_count": 362,
+    "stargazers_count": 363,
     "open_issues_count": 11,
     "forks_count": 31
   },
   {
     "full_name": "pmndrs/leva",
-    "stargazers_count": 3216,
+    "stargazers_count": 3222,
     "open_issues_count": 72,
     "forks_count": 129
   },
   {
     "full_name": "trpc/trpc",
-    "stargazers_count": 15441,
-    "open_issues_count": 83,
-    "forks_count": 491
+    "stargazers_count": 15654,
+    "open_issues_count": 78,
+    "forks_count": 499
   },
   {
     "full_name": "ryanmcdermott/clean-code-javascript",
-    "stargazers_count": 75545,
-    "open_issues_count": 70,
-    "forks_count": 10203
+    "stargazers_count": 75723,
+    "open_issues_count": 69,
+    "forks_count": 10215
   },
   {
     "full_name": "klaudiosinani/taskbook",
-    "stargazers_count": 8588,
+    "stargazers_count": 8590,
     "open_issues_count": 99,
     "forks_count": 390
   },
   {
     "full_name": "gladly-team/next-firebase-auth",
-    "stargazers_count": 963,
-    "open_issues_count": 20,
+    "stargazers_count": 965,
+    "open_issues_count": 21,
     "forks_count": 257
   },
   {
     "full_name": "giventofly/pixelit",
-    "stargazers_count": 669,
+    "stargazers_count": 672,
     "open_issues_count": 4,
     "forks_count": 137
   },
   {
     "full_name": "epicweb-dev/rocket-rental",
-    "stargazers_count": 142,
+    "stargazers_count": 143,
     "open_issues_count": 1,
     "forks_count": 9
   },
   {
     "full_name": "colinhacks/zod",
-    "stargazers_count": 13737,
-    "open_issues_count": 110,
-    "forks_count": 489
+    "stargazers_count": 13858,
+    "open_issues_count": 126,
+    "forks_count": 497
   },
   {
     "full_name": "DefinitelyTyped/DefinitelyTyped",
-    "stargazers_count": 41667,
-    "open_issues_count": 895,
-    "forks_count": 28301
+    "stargazers_count": 41694,
+    "open_issues_count": 892,
+    "forks_count": 28313
   },
   {
     "full_name": "TypeStrong/ts-node",
-    "stargazers_count": 11086,
+    "stargazers_count": 11092,
     "open_issues_count": 127,
     "forks_count": 471
   },
   {
     "full_name": "microsoft/TypeScript",
-    "stargazers_count": 86161,
-    "open_issues_count": 5904,
-    "forks_count": 11193
+    "stargazers_count": 86234,
+    "open_issues_count": 5908,
+    "forks_count": 11206
   },
   {
     "full_name": "nodejs/node",
-    "stargazers_count": 91649,
-    "open_issues_count": 1681,
-    "forks_count": 24787
+    "stargazers_count": 91709,
+    "open_issues_count": 1680,
+    "forks_count": 24807
   },
   {
     "full_name": "microsoft/language-server-protocol",
-    "stargazers_count": 8941,
+    "stargazers_count": 8951,
     "open_issues_count": 195,
     "forks_count": 695
   },
@@ -91,21 +91,21 @@
   },
   {
     "full_name": "downshift-js/downshift",
-    "stargazers_count": 10973,
-    "open_issues_count": 86,
-    "forks_count": 927
+    "stargazers_count": 10984,
+    "open_issues_count": 81,
+    "forks_count": 929
   },
   {
     "full_name": "react-navigation/react-navigation.github.io",
     "stargazers_count": 283,
-    "open_issues_count": 139,
-    "forks_count": 1624
+    "open_issues_count": 140,
+    "forks_count": 1629
   },
   {
     "full_name": "metagrover/ES6-for-humans",
-    "stargazers_count": 6139,
+    "stargazers_count": 6143,
     "open_issues_count": 1,
-    "forks_count": 499
+    "forks_count": 501
   },
   {
     "full_name": "winkerVSbecks/sb-a11y-testing",
@@ -127,25 +127,25 @@
   },
   {
     "full_name": "davidsonfellipe/awesome-wpo",
-    "stargazers_count": 7695,
+    "stargazers_count": 7699,
     "open_issues_count": 3,
     "forks_count": 566
   },
   {
     "full_name": "docker/docs",
-    "stargazers_count": 3683,
-    "open_issues_count": 902,
-    "forks_count": 6148
+    "stargazers_count": 3685,
+    "open_issues_count": 898,
+    "forks_count": 6155
   },
   {
     "full_name": "unlayer/react-email-editor",
-    "stargazers_count": 3578,
+    "stargazers_count": 3586,
     "open_issues_count": 161,
-    "forks_count": 619
+    "forks_count": 622
   },
   {
     "full_name": "tschaub/gh-pages",
-    "stargazers_count": 2933,
+    "stargazers_count": 2935,
     "open_issues_count": 120,
     "forks_count": 183
   },
@@ -157,21 +157,21 @@
   },
   {
     "full_name": "FormidableLabs/victory",
-    "stargazers_count": 10031,
-    "open_issues_count": 221,
+    "stargazers_count": 10041,
+    "open_issues_count": 223,
     "forks_count": 529
   },
   {
     "full_name": "indiespirit/react-native-chart-kit",
-    "stargazers_count": 2329,
+    "stargazers_count": 2331,
     "open_issues_count": 343,
-    "forks_count": 581
+    "forks_count": 582
   },
   {
     "full_name": "software-mansion/react-native-svg",
-    "stargazers_count": 6455,
-    "open_issues_count": 326,
-    "forks_count": 962
+    "stargazers_count": 6461,
+    "open_issues_count": 327,
+    "forks_count": 964
   },
   {
     "full_name": "ayooby/react-native-calendar-heatmap",
