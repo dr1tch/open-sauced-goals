@@ -1,57 +1,63 @@
 [
   {
+    "full_name": "facebookresearch/segment-anything",
+    "stargazers_count": 12296,
+    "open_issues_count": 53,
+    "forks_count": 982
+  },
+  {
     "full_name": "ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide",
-    "stargazers_count": 6178,
+    "stargazers_count": 6323,
     "open_issues_count": 10,
-    "forks_count": 842
+    "forks_count": 874
   },
   {
     "full_name": "openai/openai-node",
-    "stargazers_count": 2780,
-    "open_issues_count": 70,
-    "forks_count": 237
+    "stargazers_count": 2844,
+    "open_issues_count": 77,
+    "forks_count": 238
   },
   {
     "full_name": "total-typescript/ts-reset",
-    "stargazers_count": 5464,
-    "open_issues_count": 37,
-    "forks_count": 74
+    "stargazers_count": 5590,
+    "open_issues_count": 39,
+    "forks_count": 76
   },
   {
     "full_name": "mantinedev/mantine",
-    "stargazers_count": 18597,
-    "open_issues_count": 109,
-    "forks_count": 1317
+    "stargazers_count": 18675,
+    "open_issues_count": 93,
+    "forks_count": 1324
   },
   {
     "full_name": "karolkozer/planby",
-    "stargazers_count": 1036,
+    "stargazers_count": 1048,
     "open_issues_count": 7,
     "forks_count": 67
   },
   {
     "full_name": "wesbos/who-blue",
-    "stargazers_count": 365,
-    "open_issues_count": 11,
+    "stargazers_count": 364,
+    "open_issues_count": 10,
     "forks_count": 31
   },
   {
     "full_name": "pmndrs/leva",
-    "stargazers_count": 3628,
+    "stargazers_count": 3652,
     "open_issues_count": 87,
-    "forks_count": 158
+    "forks_count": 159
   },
   {
     "full_name": "trpc/trpc",
-    "stargazers_count": 23771,
-    "open_issues_count": 112,
-    "forks_count": 817
+    "stargazers_count": 23907,
+    "open_issues_count": 111,
+    "forks_count": 821
   },
   {
     "full_name": "ryanmcdermott/clean-code-javascript",
-    "stargazers_count": 81095,
+    "stargazers_count": 81193,
     "open_issues_count": 80,
-    "forks_count": 10977
+    "forks_count": 10993
   },
   {
     "full_name": "klaudiosinani/taskbook",
@@ -61,56 +67,56 @@
   },
   {
     "full_name": "gladly-team/next-firebase-auth",
-    "stargazers_count": 1097,
+    "stargazers_count": 1099,
     "open_issues_count": 24,
-    "forks_count": 288
+    "forks_count": 287
   },
   {
     "full_name": "giventofly/pixelit",
-    "stargazers_count": 793,
+    "stargazers_count": 798,
     "open_issues_count": 3,
     "forks_count": 149
   },
   {
     "full_name": "epicweb-dev/rocket-rental",
-    "stargazers_count": 237,
+    "stargazers_count": 238,
     "open_issues_count": 1,
-    "forks_count": 30
+    "forks_count": 29
   },
   {
     "full_name": "colinhacks/zod",
-    "stargazers_count": 20672,
-    "open_issues_count": 188,
-    "forks_count": 702
+    "stargazers_count": 20748,
+    "open_issues_count": 195,
+    "forks_count": 707
   },
   {
     "full_name": "DefinitelyTyped/DefinitelyTyped",
-    "stargazers_count": 43463,
-    "open_issues_count": 893,
-    "forks_count": 28909
+    "stargazers_count": 43519,
+    "open_issues_count": 899,
+    "forks_count": 28922
   },
   {
     "full_name": "TypeStrong/ts-node",
-    "stargazers_count": 11571,
-    "open_issues_count": 149,
-    "forks_count": 485
+    "stargazers_count": 11578,
+    "open_issues_count": 151,
+    "forks_count": 486
   },
   {
     "full_name": "microsoft/TypeScript",
-    "stargazers_count": 90056,
+    "stargazers_count": 90145,
     "open_issues_count": 6121,
-    "forks_count": 11630
+    "forks_count": 11644
   },
   {
     "full_name": "nodejs/node",
-    "stargazers_count": 94360,
-    "open_issues_count": 1715,
-    "forks_count": 25604
+    "stargazers_count": 94442,
+    "open_issues_count": 1716,
+    "forks_count": 25625
   },
   {
     "full_name": "microsoft/language-server-protocol",
-    "stargazers_count": 9389,
-    "open_issues_count": 226,
+    "stargazers_count": 9401,
+    "open_issues_count": 225,
     "forks_count": 730
   },
   {
@@ -121,21 +127,21 @@
   },
   {
     "full_name": "downshift-js/downshift",
-    "stargazers_count": 11274,
-    "open_issues_count": 44,
-    "forks_count": 955
+    "stargazers_count": 11279,
+    "open_issues_count": 43,
+    "forks_count": 956
   },
   {
     "full_name": "react-navigation/react-navigation.github.io",
     "stargazers_count": 289,
-    "open_issues_count": 140,
+    "open_issues_count": 141,
     "forks_count": 1674
   },
   {
     "full_name": "metagrover/ES6-for-humans",
-    "stargazers_count": 6591,
+    "stargazers_count": 6598,
     "open_issues_count": 1,
-    "forks_count": 597
+    "forks_count": 599
   },
   {
     "full_name": "winkerVSbecks/sb-a11y-testing",
@@ -152,31 +158,25 @@
   {
     "full_name": "chatengine-io/react-chat-engine",
     "stargazers_count": 104,
-    "open_issues_count": 43,
+    "open_issues_count": 44,
     "forks_count": 26
   },
   {
     "full_name": "davidsonfellipe/awesome-wpo",
-    "stargazers_count": 7864,
+    "stargazers_count": 7871,
     "open_issues_count": 5,
-    "forks_count": 567
+    "forks_count": 568
   },
   {
     "full_name": "docker/docs",
-    "stargazers_count": 3789,
-    "open_issues_count": 216,
-    "forks_count": 6369
+    "stargazers_count": 3791,
+    "open_issues_count": 214,
+    "forks_count": 6378
   },
   {
     "full_name": "unlayer/react-email-editor",
-    "stargazers_count": 3795,
+    "stargazers_count": 3800,
     "open_issues_count": 173,
-    "forks_count": 662
-  },
-  {
-    "full_name": "tschaub/gh-pages",
-    "stargazers_count": 3020,
-    "open_issues_count": 124,
-    "forks_count": 189
+    "forks_count": 664
   }
 ]
