@@ -13,15 +13,15 @@
   },
   {
     "full_name": "i4o-oss/catalystui",
-    "stargazers_count": 98,
+    "stargazers_count": 99,
     "open_issues_count": 4,
     "forks_count": 7
   },
   {
     "full_name": "enaqx/awesome-react",
-    "stargazers_count": 57561,
+    "stargazers_count": 57628,
     "open_issues_count": 13,
-    "forks_count": 6839
+    "forks_count": 6842
   },
   {
     "full_name": "philnash/react-web-audio",
@@ -33,19 +33,19 @@
     "full_name": "sivan/javascript-style-guide",
     "stargazers_count": 2005,
     "open_issues_count": 1,
-    "forks_count": 504
+    "forks_count": 506
   },
   {
     "full_name": "oku-ui/primitives",
-    "stargazers_count": 714,
-    "open_issues_count": 37,
-    "forks_count": 26
+    "stargazers_count": 716,
+    "open_issues_count": 29,
+    "forks_count": 27
   },
   {
     "full_name": "t3-oss/create-t3-turbo",
-    "stargazers_count": 3047,
-    "open_issues_count": 17,
-    "forks_count": 234
+    "stargazers_count": 3056,
+    "open_issues_count": 21,
+    "forks_count": 239
   },
   {
     "full_name": "epicweb-dev/data-modeling",
@@ -55,7 +55,7 @@
   },
   {
     "full_name": "leidenglai/opencv-js-qrcode",
-    "stargazers_count": 92,
+    "stargazers_count": 94,
     "open_issues_count": 0,
     "forks_count": 7
   },
@@ -67,37 +67,37 @@
   },
   {
     "full_name": "shadcn-ui/ui",
-    "stargazers_count": 28172,
-    "open_issues_count": 608,
-    "forks_count": 1358
+    "stargazers_count": 28575,
+    "open_issues_count": 632,
+    "forks_count": 1376
   },
   {
     "full_name": "vantezzen/auto-form",
-    "stargazers_count": 1027,
+    "stargazers_count": 1037,
     "open_issues_count": 5,
     "forks_count": 19
   },
   {
     "full_name": "chakra-ui/panda",
-    "stargazers_count": 2976,
-    "open_issues_count": 9,
-    "forks_count": 101
+    "stargazers_count": 3007,
+    "open_issues_count": 11,
+    "forks_count": 102
   },
   {
     "full_name": "TanStack/router",
-    "stargazers_count": 5030,
-    "open_issues_count": 8,
-    "forks_count": 269
+    "stargazers_count": 5049,
+    "open_issues_count": 13,
+    "forks_count": 273
   },
   {
     "full_name": "smastrom/notivue",
-    "stargazers_count": 356,
+    "stargazers_count": 358,
     "open_issues_count": 0,
     "forks_count": 2
   },
   {
     "full_name": "justin-schroeder/arrow-js",
-    "stargazers_count": 1913,
+    "stargazers_count": 1922,
     "open_issues_count": 15,
     "forks_count": 38
   },
@@ -109,33 +109,33 @@
   },
   {
     "full_name": "nrwl/nx",
-    "stargazers_count": 18718,
-    "open_issues_count": 731,
-    "forks_count": 1917
+    "stargazers_count": 18755,
+    "open_issues_count": 739,
+    "forks_count": 1923
   },
   {
     "full_name": "tailwindlabs/tailwindcss",
-    "stargazers_count": 71222,
+    "stargazers_count": 71317,
     "open_issues_count": 13,
-    "forks_count": 3686
+    "forks_count": 3691
   },
   {
     "full_name": "antfu/qr-verify",
-    "stargazers_count": 96,
+    "stargazers_count": 99,
     "open_issues_count": 0,
     "forks_count": 4
   },
   {
     "full_name": "horizon-ui/chatgpt-ai-template",
-    "stargazers_count": 111,
+    "stargazers_count": 113,
     "open_issues_count": 1,
     "forks_count": 39
   },
   {
     "full_name": "horizon-ui/horizon-ui-chakra-nextjs",
-    "stargazers_count": 145,
+    "stargazers_count": 146,
     "open_issues_count": 0,
-    "forks_count": 69
+    "forks_count": 70
   },
   {
     "full_name": "horizon-ui/horizon-tailwind-react-ts",
@@ -151,32 +151,32 @@
   },
   {
     "full_name": "total-typescript/react-typescript-tutorial",
-    "stargazers_count": 183,
+    "stargazers_count": 184,
     "open_issues_count": 0,
-    "forks_count": 66
+    "forks_count": 68
   },
   {
     "full_name": "KevinVandy/mantine-react-table",
-    "stargazers_count": 395,
+    "stargazers_count": 398,
     "open_issues_count": 11,
-    "forks_count": 43
+    "forks_count": 45
   },
   {
     "full_name": "KevinVandy/material-react-table",
-    "stargazers_count": 872,
-    "open_issues_count": 50,
-    "forks_count": 235
+    "stargazers_count": 877,
+    "open_issues_count": 49,
+    "forks_count": 238
   },
   {
     "full_name": "vitejs/vite-plugin-react",
-    "stargazers_count": 344,
+    "stargazers_count": 347,
     "open_issues_count": 7,
     "forks_count": 81
   },
   {
     "full_name": "nextui-org/nextui",
-    "stargazers_count": 14096,
-    "open_issues_count": 25,
-    "forks_count": 737
+    "stargazers_count": 14283,
+    "open_issues_count": 22,
+    "forks_count": 743
   }
 ]
