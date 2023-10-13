@@ -1,13 +1,13 @@
 [
   {
     "full_name": "chakra-ui/chakra-ui-vue",
-    "stargazers_count": 1827,
+    "stargazers_count": 1829,
     "open_issues_count": 57,
     "forks_count": 140
   },
   {
     "full_name": "arneesh/turborepo-vue-starter",
-    "stargazers_count": 35,
+    "stargazers_count": 36,
     "open_issues_count": 1,
     "forks_count": 9
   },
@@ -25,9 +25,9 @@
   },
   {
     "full_name": "moabukar/tech-vault",
-    "stargazers_count": 596,
+    "stargazers_count": 603,
     "open_issues_count": 1,
-    "forks_count": 152
+    "forks_count": 156
   },
   {
     "full_name": "nikhilagrwl07/System-Design",
@@ -37,21 +37,21 @@
   },
   {
     "full_name": "vercel/app-playground",
-    "stargazers_count": 1946,
-    "open_issues_count": 5,
-    "forks_count": 484
+    "stargazers_count": 1950,
+    "open_issues_count": 6,
+    "forks_count": 486
   },
   {
     "full_name": "vercel/platforms",
-    "stargazers_count": 4519,
+    "stargazers_count": 4531,
     "open_issues_count": 26,
     "forks_count": 563
   },
   {
     "full_name": "shadcn-ui/taxonomy",
-    "stargazers_count": 15422,
-    "open_issues_count": 143,
-    "forks_count": 1979
+    "stargazers_count": 15457,
+    "open_issues_count": 146,
+    "forks_count": 1985
   },
   {
     "full_name": "vercel-labs/rsc-llm-on-the-edge",
@@ -73,9 +73,9 @@
   },
   {
     "full_name": "enaqx/awesome-react",
-    "stargazers_count": 58544,
+    "stargazers_count": 58590,
     "open_issues_count": 5,
-    "forks_count": 6907
+    "forks_count": 6910
   },
   {
     "full_name": "philnash/react-web-audio",
@@ -85,27 +85,27 @@
   },
   {
     "full_name": "sivan/javascript-style-guide",
-    "stargazers_count": 2007,
+    "stargazers_count": 2006,
     "open_issues_count": 1,
     "forks_count": 525
   },
   {
     "full_name": "oku-ui/primitives",
-    "stargazers_count": 771,
+    "stargazers_count": 772,
     "open_issues_count": 15,
-    "forks_count": 31
+    "forks_count": 30
   },
   {
     "full_name": "t3-oss/create-t3-turbo",
-    "stargazers_count": 3246,
-    "open_issues_count": 36,
+    "stargazers_count": 3257,
+    "open_issues_count": 35,
     "forks_count": 254
   },
   {
     "full_name": "epicweb-dev/data-modeling",
-    "stargazers_count": 81,
+    "stargazers_count": 83,
     "open_issues_count": 2,
-    "forks_count": 13
+    "forks_count": 15
   },
   {
     "full_name": "leidenglai/opencv-js-qrcode",
@@ -121,38 +121,38 @@
   },
   {
     "full_name": "shadcn-ui/ui",
-    "stargazers_count": 32922,
-    "open_issues_count": 801,
-    "forks_count": 1628
+    "stargazers_count": 33151,
+    "open_issues_count": 811,
+    "forks_count": 1641
   },
   {
     "full_name": "vantezzen/auto-form",
-    "stargazers_count": 1251,
-    "open_issues_count": 9,
+    "stargazers_count": 1264,
+    "open_issues_count": 10,
     "forks_count": 33
   },
   {
     "full_name": "chakra-ui/panda",
-    "stargazers_count": 3586,
-    "open_issues_count": 24,
+    "stargazers_count": 3603,
+    "open_issues_count": 18,
     "forks_count": 127
   },
   {
     "full_name": "TanStack/router",
-    "stargazers_count": 5169,
-    "open_issues_count": 29,
+    "stargazers_count": 5175,
+    "open_issues_count": 36,
     "forks_count": 289
   },
   {
     "full_name": "smastrom/notivue",
-    "stargazers_count": 399,
+    "stargazers_count": 405,
     "open_issues_count": 0,
     "forks_count": 4
   },
   {
     "full_name": "justin-schroeder/arrow-js",
-    "stargazers_count": 1963,
-    "open_issues_count": 19,
+    "stargazers_count": 1974,
+    "open_issues_count": 20,
     "forks_count": 39
   },
   {
@@ -163,15 +163,15 @@
   },
   {
     "full_name": "nrwl/nx",
-    "stargazers_count": 19622,
-    "open_issues_count": 768,
-    "forks_count": 2004
+    "stargazers_count": 19667,
+    "open_issues_count": 770,
+    "forks_count": 2007
   },
   {
     "full_name": "tailwindlabs/tailwindcss",
-    "stargazers_count": 72542,
+    "stargazers_count": 72627,
     "open_issues_count": 18,
-    "forks_count": 3785
+    "forks_count": 3794
   },
   {
     "full_name": "antfu/qr-verify",
