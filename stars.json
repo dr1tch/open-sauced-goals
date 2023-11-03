@@ -1,9 +1,9 @@
 [
   {
     "full_name": "nuxt/nuxt",
-    "stargazers_count": 48130,
-    "open_issues_count": 945,
-    "forks_count": 4503
+    "stargazers_count": 48202,
+    "open_issues_count": 952,
+    "forks_count": 4508
   },
   {
     "full_name": "chakra-ui/chakra-ui-vue",
@@ -31,37 +31,37 @@
   },
   {
     "full_name": "moabukar/tech-vault",
-    "stargazers_count": 646,
-    "open_issues_count": 3,
-    "forks_count": 185
+    "stargazers_count": 662,
+    "open_issues_count": 4,
+    "forks_count": 195
   },
   {
     "full_name": "nikhilagrwl07/System-Design",
-    "stargazers_count": 86,
+    "stargazers_count": 87,
     "open_issues_count": 0,
     "forks_count": 45
   },
   {
     "full_name": "vercel/app-playground",
-    "stargazers_count": 2015,
+    "stargazers_count": 2022,
     "open_issues_count": 8,
-    "forks_count": 501
+    "forks_count": 502
   },
   {
     "full_name": "vercel/platforms",
-    "stargazers_count": 4601,
-    "open_issues_count": 30,
-    "forks_count": 574
+    "stargazers_count": 4617,
+    "open_issues_count": 32,
+    "forks_count": 576
   },
   {
     "full_name": "shadcn-ui/taxonomy",
-    "stargazers_count": 15589,
+    "stargazers_count": 15635,
     "open_issues_count": 149,
-    "forks_count": 2020
+    "forks_count": 2028
   },
   {
     "full_name": "vercel-labs/rsc-llm-on-the-edge",
-    "stargazers_count": 91,
+    "stargazers_count": 92,
     "open_issues_count": 1,
     "forks_count": 8
   },
@@ -73,45 +73,45 @@
   },
   {
     "full_name": "i4o-oss/catalystui",
-    "stargazers_count": 124,
+    "stargazers_count": 141,
     "open_issues_count": 4,
     "forks_count": 7
   },
   {
     "full_name": "enaqx/awesome-react",
-    "stargazers_count": 58937,
+    "stargazers_count": 58985,
     "open_issues_count": 10,
-    "forks_count": 6951
+    "forks_count": 6958
   },
   {
     "full_name": "philnash/react-web-audio",
     "stargazers_count": 173,
     "open_issues_count": 3,
-    "forks_count": 40
+    "forks_count": 41
   },
   {
     "full_name": "sivan/javascript-style-guide",
     "stargazers_count": 2005,
     "open_issues_count": 1,
-    "forks_count": 528
+    "forks_count": 529
   },
   {
     "full_name": "oku-ui/primitives",
-    "stargazers_count": 780,
-    "open_issues_count": 17,
+    "stargazers_count": 779,
+    "open_issues_count": 21,
     "forks_count": 30
   },
   {
     "full_name": "t3-oss/create-t3-turbo",
-    "stargazers_count": 3341,
-    "open_issues_count": 37,
+    "stargazers_count": 3357,
+    "open_issues_count": 17,
     "forks_count": 266
   },
   {
     "full_name": "epicweb-dev/data-modeling",
-    "stargazers_count": 102,
+    "stargazers_count": 105,
     "open_issues_count": 2,
-    "forks_count": 32
+    "forks_count": 34
   },
   {
     "full_name": "leidenglai/opencv-js-qrcode",
@@ -127,37 +127,37 @@
   },
   {
     "full_name": "shadcn-ui/ui",
-    "stargazers_count": 34230,
-    "open_issues_count": 813,
-    "forks_count": 1699
+    "stargazers_count": 34464,
+    "open_issues_count": 824,
+    "forks_count": 1713
   },
   {
     "full_name": "vantezzen/auto-form",
-    "stargazers_count": 1330,
-    "open_issues_count": 10,
+    "stargazers_count": 1341,
+    "open_issues_count": 11,
     "forks_count": 36
   },
   {
     "full_name": "chakra-ui/panda",
-    "stargazers_count": 3670,
-    "open_issues_count": 10,
-    "forks_count": 136
+    "stargazers_count": 3676,
+    "open_issues_count": 12,
+    "forks_count": 137
   },
   {
     "full_name": "TanStack/router",
-    "stargazers_count": 5223,
-    "open_issues_count": 44,
-    "forks_count": 292
+    "stargazers_count": 5232,
+    "open_issues_count": 47,
+    "forks_count": 294
   },
   {
     "full_name": "smastrom/notivue",
-    "stargazers_count": 412,
+    "stargazers_count": 418,
     "open_issues_count": 0,
     "forks_count": 4
   },
   {
     "full_name": "justin-schroeder/arrow-js",
-    "stargazers_count": 1986,
+    "stargazers_count": 1991,
     "open_issues_count": 20,
     "forks_count": 41
   },
@@ -169,14 +169,14 @@
   },
   {
     "full_name": "nrwl/nx",
-    "stargazers_count": 19983,
-    "open_issues_count": 746,
-    "forks_count": 2043
+    "stargazers_count": 20038,
+    "open_issues_count": 757,
+    "forks_count": 2046
   },
   {
     "full_name": "tailwindlabs/tailwindcss",
-    "stargazers_count": 73198,
-    "open_issues_count": 16,
-    "forks_count": 3833
+    "stargazers_count": 73260,
+    "open_issues_count": 14,
+    "forks_count": 3835
   }
 ]
