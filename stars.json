@@ -1,9 +1,9 @@
 [
   {
     "full_name": "codecrafters-io/build-your-own-x",
-    "stargazers_count": 229488,
-    "open_issues_count": 299,
-    "forks_count": 22056
+    "stargazers_count": 230218,
+    "open_issues_count": 300,
+    "forks_count": 22101
   },
   {
     "full_name": "igrek8/yarn-changed-workspaces",
@@ -13,19 +13,19 @@
   },
   {
     "full_name": "leerob/nextjs-postgres-email-client",
-    "stargazers_count": 431,
+    "stargazers_count": 433,
     "open_issues_count": 0,
-    "forks_count": 63
+    "forks_count": 66
   },
   {
     "full_name": "nuxt/nuxt",
-    "stargazers_count": 48732,
-    "open_issues_count": 970,
-    "forks_count": 4569
+    "stargazers_count": 48803,
+    "open_issues_count": 984,
+    "forks_count": 4578
   },
   {
     "full_name": "chakra-ui/chakra-ui-vue",
-    "stargazers_count": 1833,
+    "stargazers_count": 1831,
     "open_issues_count": 57,
     "forks_count": 140
   },
@@ -61,21 +61,21 @@
   },
   {
     "full_name": "vercel/app-playground",
-    "stargazers_count": 2089,
+    "stargazers_count": 2102,
     "open_issues_count": 8,
-    "forks_count": 525
+    "forks_count": 532
   },
   {
     "full_name": "vercel/platforms",
-    "stargazers_count": 4718,
-    "open_issues_count": 15,
-    "forks_count": 593
+    "stargazers_count": 4732,
+    "open_issues_count": 16,
+    "forks_count": 597
   },
   {
     "full_name": "shadcn-ui/taxonomy",
-    "stargazers_count": 15927,
-    "open_issues_count": 157,
-    "forks_count": 2098
+    "stargazers_count": 15944,
+    "open_issues_count": 158,
+    "forks_count": 2101
   },
   {
     "full_name": "vercel-labs/rsc-llm-on-the-edge",
@@ -91,19 +91,19 @@
   },
   {
     "full_name": "i4o-oss/catalystui",
-    "stargazers_count": 161,
+    "stargazers_count": 162,
     "open_issues_count": 5,
     "forks_count": 8
   },
   {
     "full_name": "enaqx/awesome-react",
-    "stargazers_count": 59480,
-    "open_issues_count": 11,
-    "forks_count": 6987
+    "stargazers_count": 59537,
+    "open_issues_count": 13,
+    "forks_count": 6993
   },
   {
     "full_name": "philnash/react-web-audio",
-    "stargazers_count": 174,
+    "stargazers_count": 175,
     "open_issues_count": 3,
     "forks_count": 41
   },
@@ -116,26 +116,26 @@
   {
     "full_name": "oku-ui/primitives",
     "stargazers_count": 783,
-    "open_issues_count": 21,
+    "open_issues_count": 18,
     "forks_count": 30
   },
   {
     "full_name": "t3-oss/create-t3-turbo",
-    "stargazers_count": 3458,
+    "stargazers_count": 3464,
     "open_issues_count": 31,
     "forks_count": 276
   },
   {
     "full_name": "epicweb-dev/data-modeling",
-    "stargazers_count": 112,
-    "open_issues_count": 0,
+    "stargazers_count": 114,
+    "open_issues_count": 1,
     "forks_count": 42
   },
   {
     "full_name": "leidenglai/opencv-js-qrcode",
     "stargazers_count": 96,
     "open_issues_count": 0,
-    "forks_count": 8
+    "forks_count": 9
   },
   {
     "full_name": "PacktPublishing/SvelteKit-Up-and-Running",
@@ -145,37 +145,37 @@
   },
   {
     "full_name": "shadcn-ui/ui",
-    "stargazers_count": 36090,
-    "open_issues_count": 871,
-    "forks_count": 1851
+    "stargazers_count": 36303,
+    "open_issues_count": 883,
+    "forks_count": 1875
   },
   {
     "full_name": "vantezzen/auto-form",
-    "stargazers_count": 1389,
-    "open_issues_count": 16,
-    "forks_count": 44
+    "stargazers_count": 1394,
+    "open_issues_count": 15,
+    "forks_count": 45
   },
   {
     "full_name": "chakra-ui/panda",
-    "stargazers_count": 3829,
-    "open_issues_count": 6,
-    "forks_count": 143
+    "stargazers_count": 3842,
+    "open_issues_count": 14,
+    "forks_count": 145
   },
   {
     "full_name": "TanStack/router",
-    "stargazers_count": 5322,
-    "open_issues_count": 56,
+    "stargazers_count": 5334,
+    "open_issues_count": 59,
     "forks_count": 304
   },
   {
     "full_name": "smastrom/notivue",
-    "stargazers_count": 436,
-    "open_issues_count": 0,
+    "stargazers_count": 437,
+    "open_issues_count": 1,
     "forks_count": 5
   },
   {
     "full_name": "justin-schroeder/arrow-js",
-    "stargazers_count": 2058,
+    "stargazers_count": 2064,
     "open_issues_count": 21,
     "forks_count": 43
   }
