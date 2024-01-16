@@ -7,15 +7,15 @@
   },
   {
     "full_name": "storyblok/storyblok-vue",
-    "stargazers_count": 79,
-    "open_issues_count": 16,
+    "stargazers_count": 81,
+    "open_issues_count": 14,
     "forks_count": 18
   },
   {
     "full_name": "codecrafters-io/build-your-own-x",
-    "stargazers_count": 238185,
-    "open_issues_count": 312,
-    "forks_count": 22782
+    "stargazers_count": 239181,
+    "open_issues_count": 313,
+    "forks_count": 22850
   },
   {
     "full_name": "igrek8/yarn-changed-workspaces",
@@ -25,15 +25,15 @@
   },
   {
     "full_name": "leerob/nextjs-postgres-email-client",
-    "stargazers_count": 461,
+    "stargazers_count": 462,
     "open_issues_count": 1,
     "forks_count": 72
   },
   {
     "full_name": "nuxt/nuxt",
-    "stargazers_count": 49648,
-    "open_issues_count": 923,
-    "forks_count": 4676
+    "stargazers_count": 49732,
+    "open_issues_count": 935,
+    "forks_count": 4684
   },
   {
     "full_name": "chakra-ui/chakra-ui-vue",
@@ -61,7 +61,7 @@
   },
   {
     "full_name": "moabukar/tech-vault",
-    "stargazers_count": 742,
+    "stargazers_count": 743,
     "open_issues_count": 1,
     "forks_count": 28
   },
@@ -73,21 +73,21 @@
   },
   {
     "full_name": "vercel/app-playground",
-    "stargazers_count": 2147,
+    "stargazers_count": 2151,
     "open_issues_count": 10,
-    "forks_count": 545
+    "forks_count": 546
   },
   {
     "full_name": "vercel/platforms",
-    "stargazers_count": 4834,
-    "open_issues_count": 25,
-    "forks_count": 620
+    "stargazers_count": 4848,
+    "open_issues_count": 26,
+    "forks_count": 622
   },
   {
     "full_name": "shadcn-ui/taxonomy",
-    "stargazers_count": 16312,
-    "open_issues_count": 165,
-    "forks_count": 2164
+    "stargazers_count": 16469,
+    "open_issues_count": 169,
+    "forks_count": 2175
   },
   {
     "full_name": "vercel-labs/rsc-llm-on-the-edge",
@@ -109,7 +109,7 @@
   },
   {
     "full_name": "enaqx/awesome-react",
-    "stargazers_count": 60157,
+    "stargazers_count": 60224,
     "open_issues_count": 16,
     "forks_count": 7046
   },
@@ -127,15 +127,15 @@
   },
   {
     "full_name": "oku-ui/primitives",
-    "stargazers_count": 814,
-    "open_issues_count": 26,
+    "stargazers_count": 815,
+    "open_issues_count": 27,
     "forks_count": 31
   },
   {
     "full_name": "t3-oss/create-t3-turbo",
-    "stargazers_count": 3577,
-    "open_issues_count": 36,
-    "forks_count": 288
+    "stargazers_count": 3585,
+    "open_issues_count": 38,
+    "forks_count": 292
   },
   {
     "full_name": "epicweb-dev/data-modeling",
@@ -145,7 +145,7 @@
   },
   {
     "full_name": "leidenglai/opencv-js-qrcode",
-    "stargazers_count": 98,
+    "stargazers_count": 100,
     "open_issues_count": 0,
     "forks_count": 9
   },
@@ -157,26 +157,26 @@
   },
   {
     "full_name": "shadcn-ui/ui",
-    "stargazers_count": 42738,
-    "open_issues_count": 1056,
-    "forks_count": 2184
+    "stargazers_count": 43819,
+    "open_issues_count": 1077,
+    "forks_count": 2229
   },
   {
     "full_name": "vantezzen/auto-form",
-    "stargazers_count": 1536,
+    "stargazers_count": 1542,
     "open_issues_count": 15,
     "forks_count": 49
   },
   {
     "full_name": "chakra-ui/panda",
-    "stargazers_count": 4094,
-    "open_issues_count": 8,
+    "stargazers_count": 4115,
+    "open_issues_count": 6,
     "forks_count": 162
   },
   {
     "full_name": "TanStack/router",
-    "stargazers_count": 5913,
-    "open_issues_count": 19,
-    "forks_count": 339
+    "stargazers_count": 5980,
+    "open_issues_count": 23,
+    "forks_count": 345
   }
 ]
