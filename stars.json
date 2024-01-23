@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "icflorescu/mantine-datatable",
+    "stargazers_count": 773,
+    "open_issues_count": 6,
+    "forks_count": 59
+  },
+  {
     "full_name": "scaleflex/ui",
     "stargazers_count": 7,
     "open_issues_count": 2,
@@ -13,9 +19,9 @@
   },
   {
     "full_name": "codecrafters-io/build-your-own-x",
-    "stargazers_count": 239725,
-    "open_issues_count": 313,
-    "forks_count": 22896
+    "stargazers_count": 240684,
+    "open_issues_count": 315,
+    "forks_count": 23053
   },
   {
     "full_name": "igrek8/yarn-changed-workspaces",
@@ -25,19 +31,19 @@
   },
   {
     "full_name": "leerob/nextjs-postgres-email-client",
-    "stargazers_count": 465,
+    "stargazers_count": 466,
     "open_issues_count": 2,
-    "forks_count": 74
+    "forks_count": 73
   },
   {
     "full_name": "nuxt/nuxt",
-    "stargazers_count": 49813,
-    "open_issues_count": 915,
-    "forks_count": 4693
+    "stargazers_count": 49877,
+    "open_issues_count": 922,
+    "forks_count": 4698
   },
   {
     "full_name": "chakra-ui/chakra-ui-vue",
-    "stargazers_count": 1846,
+    "stargazers_count": 1844,
     "open_issues_count": 57,
     "forks_count": 140
   },
@@ -61,7 +67,7 @@
   },
   {
     "full_name": "moabukar/tech-vault",
-    "stargazers_count": 743,
+    "stargazers_count": 744,
     "open_issues_count": 1,
     "forks_count": 29
   },
@@ -73,25 +79,25 @@
   },
   {
     "full_name": "vercel/app-playground",
-    "stargazers_count": 2150,
+    "stargazers_count": 2154,
     "open_issues_count": 11,
-    "forks_count": 548
+    "forks_count": 550
   },
   {
     "full_name": "vercel/platforms",
-    "stargazers_count": 4864,
+    "stargazers_count": 4876,
     "open_issues_count": 26,
-    "forks_count": 623
+    "forks_count": 624
   },
   {
     "full_name": "shadcn-ui/taxonomy",
-    "stargazers_count": 16547,
-    "open_issues_count": 170,
-    "forks_count": 2187
+    "stargazers_count": 16591,
+    "open_issues_count": 172,
+    "forks_count": 2196
   },
   {
     "full_name": "vercel-labs/rsc-llm-on-the-edge",
-    "stargazers_count": 94,
+    "stargazers_count": 95,
     "open_issues_count": 1,
     "forks_count": 10
   },
@@ -109,9 +115,9 @@
   },
   {
     "full_name": "enaqx/awesome-react",
-    "stargazers_count": 60278,
-    "open_issues_count": 16,
-    "forks_count": 7044
+    "stargazers_count": 60355,
+    "open_issues_count": 2,
+    "forks_count": 7049
   },
   {
     "full_name": "philnash/react-web-audio",
@@ -127,25 +133,25 @@
   },
   {
     "full_name": "oku-ui/primitives",
-    "stargazers_count": 815,
-    "open_issues_count": 29,
-    "forks_count": 31
+    "stargazers_count": 817,
+    "open_issues_count": 28,
+    "forks_count": 32
   },
   {
     "full_name": "t3-oss/create-t3-turbo",
-    "stargazers_count": 3599,
-    "open_issues_count": 37,
-    "forks_count": 296
+    "stargazers_count": 3616,
+    "open_issues_count": 35,
+    "forks_count": 295
   },
   {
     "full_name": "epicweb-dev/data-modeling",
-    "stargazers_count": 124,
+    "stargazers_count": 125,
     "open_issues_count": 0,
-    "forks_count": 47
+    "forks_count": 49
   },
   {
     "full_name": "leidenglai/opencv-js-qrcode",
-    "stargazers_count": 100,
+    "stargazers_count": 102,
     "open_issues_count": 0,
     "forks_count": 9
   },
@@ -157,26 +163,20 @@
   },
   {
     "full_name": "shadcn-ui/ui",
-    "stargazers_count": 44621,
-    "open_issues_count": 1087,
-    "forks_count": 2260
+    "stargazers_count": 45383,
+    "open_issues_count": 1108,
+    "forks_count": 2307
   },
   {
     "full_name": "vantezzen/auto-form",
-    "stargazers_count": 1547,
+    "stargazers_count": 1556,
     "open_issues_count": 15,
     "forks_count": 50
   },
   {
     "full_name": "chakra-ui/panda",
-    "stargazers_count": 4130,
-    "open_issues_count": 8,
-    "forks_count": 163
-  },
-  {
-    "full_name": "TanStack/router",
-    "stargazers_count": 6045,
-    "open_issues_count": 20,
-    "forks_count": 352
+    "stargazers_count": 4151,
+    "open_issues_count": 12,
+    "forks_count": 165
   }
 ]
