@@ -1,19 +1,19 @@
 [
   {
     "full_name": "kiliman/tailwindui-crawler",
-    "stargazers_count": 725,
+    "stargazers_count": 726,
     "open_issues_count": 2,
     "forks_count": 89
   },
   {
     "full_name": "vitejs/awesome-vite",
-    "stargazers_count": 12556,
-    "open_issues_count": 31,
-    "forks_count": 1017
+    "stargazers_count": 12583,
+    "open_issues_count": 32,
+    "forks_count": 1020
   },
   {
     "full_name": "icflorescu/mantine-datatable",
-    "stargazers_count": 806,
+    "stargazers_count": 805,
     "open_issues_count": 11,
     "forks_count": 59
   },
@@ -26,14 +26,14 @@
   {
     "full_name": "storyblok/storyblok-vue",
     "stargazers_count": 82,
-    "open_issues_count": 12,
+    "open_issues_count": 11,
     "forks_count": 18
   },
   {
     "full_name": "codecrafters-io/build-your-own-x",
-    "stargazers_count": 248171,
-    "open_issues_count": 312,
-    "forks_count": 23595
+    "stargazers_count": 248592,
+    "open_issues_count": 313,
+    "forks_count": 23629
   },
   {
     "full_name": "igrek8/yarn-changed-workspaces",
@@ -43,15 +43,15 @@
   },
   {
     "full_name": "leerob/nextjs-postgres-email-client",
-    "stargazers_count": 485,
+    "stargazers_count": 486,
     "open_issues_count": 1,
     "forks_count": 70
   },
   {
     "full_name": "nuxt/nuxt",
-    "stargazers_count": 50774,
-    "open_issues_count": 1000,
-    "forks_count": 4639
+    "stargazers_count": 50858,
+    "open_issues_count": 1010,
+    "forks_count": 4643
   },
   {
     "full_name": "chakra-ui/chakra-ui-vue",
@@ -67,7 +67,7 @@
   },
   {
     "full_name": "munafio/react-vue-turborepo-starter",
-    "stargazers_count": 24,
+    "stargazers_count": 23,
     "open_issues_count": 0,
     "forks_count": 4
   },
@@ -79,33 +79,33 @@
   },
   {
     "full_name": "moabukar/tech-vault",
-    "stargazers_count": 775,
+    "stargazers_count": 791,
     "open_issues_count": 1,
-    "forks_count": 46
+    "forks_count": 49
   },
   {
     "full_name": "nikhilagrwl07/System-Design",
-    "stargazers_count": 88,
+    "stargazers_count": 89,
     "open_issues_count": 0,
     "forks_count": 45
   },
   {
     "full_name": "vercel/app-playground",
-    "stargazers_count": 2199,
+    "stargazers_count": 2206,
     "open_issues_count": 9,
-    "forks_count": 560
+    "forks_count": 564
   },
   {
     "full_name": "vercel/platforms",
-    "stargazers_count": 5000,
-    "open_issues_count": 33,
-    "forks_count": 602
+    "stargazers_count": 5016,
+    "open_issues_count": 34,
+    "forks_count": 606
   },
   {
     "full_name": "shadcn-ui/taxonomy",
-    "stargazers_count": 17034,
+    "stargazers_count": 17067,
     "open_issues_count": 178,
-    "forks_count": 2266
+    "forks_count": 2270
   },
   {
     "full_name": "vercel-labs/rsc-llm-on-the-edge",
@@ -127,9 +127,9 @@
   },
   {
     "full_name": "enaqx/awesome-react",
-    "stargazers_count": 61060,
+    "stargazers_count": 61129,
     "open_issues_count": 6,
-    "forks_count": 7010
+    "forks_count": 7009
   },
   {
     "full_name": "philnash/react-web-audio",
@@ -141,31 +141,31 @@
     "full_name": "sivan/javascript-style-guide",
     "stargazers_count": 2006,
     "open_issues_count": 1,
-    "forks_count": 534
+    "forks_count": 489
   },
   {
     "full_name": "oku-ui/primitives",
-    "stargazers_count": 830,
-    "open_issues_count": 30,
+    "stargazers_count": 834,
+    "open_issues_count": 31,
     "forks_count": 34
   },
   {
     "full_name": "t3-oss/create-t3-turbo",
-    "stargazers_count": 3777,
-    "open_issues_count": 36,
-    "forks_count": 309
+    "stargazers_count": 3786,
+    "open_issues_count": 37,
+    "forks_count": 310
   },
   {
     "full_name": "epicweb-dev/data-modeling",
-    "stargazers_count": 130,
+    "stargazers_count": 131,
     "open_issues_count": 0,
     "forks_count": 54
   },
   {
     "full_name": "leidenglai/opencv-js-qrcode",
-    "stargazers_count": 106,
+    "stargazers_count": 107,
     "open_issues_count": 0,
-    "forks_count": 9
+    "forks_count": 10
   },
   {
     "full_name": "PacktPublishing/SvelteKit-Up-and-Running",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "shadcn-ui/ui",
-    "stargazers_count": 50304,
-    "open_issues_count": 885,
-    "forks_count": 2523
+    "stargazers_count": 50674,
+    "open_issues_count": 871,
+    "forks_count": 2544
   }
 ]
