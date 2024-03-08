@@ -7,33 +7,33 @@
   },
   {
     "full_name": "vitejs/awesome-vite",
-    "stargazers_count": 12583,
-    "open_issues_count": 32,
-    "forks_count": 1020
+    "stargazers_count": 12613,
+    "open_issues_count": 35,
+    "forks_count": 1022
   },
   {
     "full_name": "icflorescu/mantine-datatable",
-    "stargazers_count": 805,
+    "stargazers_count": 806,
     "open_issues_count": 11,
     "forks_count": 59
   },
   {
     "full_name": "scaleflex/ui",
     "stargazers_count": 7,
-    "open_issues_count": 1,
+    "open_issues_count": 2,
     "forks_count": 3
   },
   {
     "full_name": "storyblok/storyblok-vue",
     "stargazers_count": 82,
-    "open_issues_count": 11,
+    "open_issues_count": 7,
     "forks_count": 18
   },
   {
     "full_name": "codecrafters-io/build-your-own-x",
-    "stargazers_count": 248592,
+    "stargazers_count": 248967,
     "open_issues_count": 313,
-    "forks_count": 23629
+    "forks_count": 23670
   },
   {
     "full_name": "igrek8/yarn-changed-workspaces",
@@ -43,19 +43,19 @@
   },
   {
     "full_name": "leerob/nextjs-postgres-email-client",
-    "stargazers_count": 486,
+    "stargazers_count": 489,
     "open_issues_count": 1,
-    "forks_count": 70
+    "forks_count": 72
   },
   {
     "full_name": "nuxt/nuxt",
-    "stargazers_count": 50858,
-    "open_issues_count": 1010,
-    "forks_count": 4643
+    "stargazers_count": 50938,
+    "open_issues_count": 1003,
+    "forks_count": 4653
   },
   {
     "full_name": "chakra-ui/chakra-ui-vue",
-    "stargazers_count": 1852,
+    "stargazers_count": 1853,
     "open_issues_count": 57,
     "forks_count": 140
   },
@@ -79,9 +79,9 @@
   },
   {
     "full_name": "moabukar/tech-vault",
-    "stargazers_count": 791,
-    "open_issues_count": 1,
-    "forks_count": 49
+    "stargazers_count": 801,
+    "open_issues_count": 2,
+    "forks_count": 50
   },
   {
     "full_name": "nikhilagrwl07/System-Design",
@@ -91,21 +91,21 @@
   },
   {
     "full_name": "vercel/app-playground",
-    "stargazers_count": 2206,
+    "stargazers_count": 2209,
     "open_issues_count": 9,
-    "forks_count": 564
+    "forks_count": 565
   },
   {
     "full_name": "vercel/platforms",
-    "stargazers_count": 5016,
+    "stargazers_count": 5025,
     "open_issues_count": 34,
-    "forks_count": 606
+    "forks_count": 610
   },
   {
     "full_name": "shadcn-ui/taxonomy",
-    "stargazers_count": 17067,
+    "stargazers_count": 17096,
     "open_issues_count": 178,
-    "forks_count": 2270
+    "forks_count": 2281
   },
   {
     "full_name": "vercel-labs/rsc-llm-on-the-edge",
@@ -127,9 +127,9 @@
   },
   {
     "full_name": "enaqx/awesome-react",
-    "stargazers_count": 61129,
-    "open_issues_count": 6,
-    "forks_count": 7009
+    "stargazers_count": 61186,
+    "open_issues_count": 7,
+    "forks_count": 7010
   },
   {
     "full_name": "philnash/react-web-audio",
@@ -141,19 +141,19 @@
     "full_name": "sivan/javascript-style-guide",
     "stargazers_count": 2006,
     "open_issues_count": 1,
-    "forks_count": 489
+    "forks_count": 490
   },
   {
     "full_name": "oku-ui/primitives",
-    "stargazers_count": 834,
+    "stargazers_count": 835,
     "open_issues_count": 31,
     "forks_count": 34
   },
   {
     "full_name": "t3-oss/create-t3-turbo",
-    "stargazers_count": 3786,
+    "stargazers_count": 3793,
     "open_issues_count": 37,
-    "forks_count": 310
+    "forks_count": 309
   },
   {
     "full_name": "epicweb-dev/data-modeling",
@@ -163,20 +163,20 @@
   },
   {
     "full_name": "leidenglai/opencv-js-qrcode",
-    "stargazers_count": 107,
+    "stargazers_count": 109,
     "open_issues_count": 0,
     "forks_count": 10
   },
   {
     "full_name": "PacktPublishing/SvelteKit-Up-and-Running",
-    "stargazers_count": 14,
+    "stargazers_count": 15,
     "open_issues_count": 2,
-    "forks_count": 6
+    "forks_count": 7
   },
   {
     "full_name": "shadcn-ui/ui",
-    "stargazers_count": 50674,
-    "open_issues_count": 871,
-    "forks_count": 2544
+    "stargazers_count": 51088,
+    "open_issues_count": 885,
+    "forks_count": 2583
   }
 ]
