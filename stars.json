@@ -1,8 +1,8 @@
 [
   {
     "full_name": "expo/expo",
-    "stargazers_count": 29804,
-    "open_issues_count": 659,
+    "stargazers_count": 29915,
+    "open_issues_count": 667,
     "forks_count": 4711
   },
   {
@@ -13,27 +13,27 @@
   },
   {
     "full_name": "vitejs/vite",
-    "stargazers_count": 65228,
-    "open_issues_count": 583,
-    "forks_count": 5787
+    "stargazers_count": 65274,
+    "open_issues_count": 584,
+    "forks_count": 5796
   },
   {
     "full_name": "kiliman/tailwindui-crawler",
-    "stargazers_count": 749,
+    "stargazers_count": 750,
     "open_issues_count": 2,
     "forks_count": 94
   },
   {
     "full_name": "vitejs/awesome-vite",
-    "stargazers_count": 13225,
-    "open_issues_count": 38,
-    "forks_count": 1060
+    "stargazers_count": 13248,
+    "open_issues_count": 34,
+    "forks_count": 1062
   },
   {
     "full_name": "icflorescu/mantine-datatable",
-    "stargazers_count": 840,
+    "stargazers_count": 841,
     "open_issues_count": 17,
-    "forks_count": 60
+    "forks_count": 61
   },
   {
     "full_name": "scaleflex/ui",
@@ -44,14 +44,14 @@
   {
     "full_name": "storyblok/storyblok-vue",
     "stargazers_count": 85,
-    "open_issues_count": 10,
+    "open_issues_count": 9,
     "forks_count": 18
   },
   {
     "full_name": "codecrafters-io/build-your-own-x",
-    "stargazers_count": 264780,
-    "open_issues_count": 326,
-    "forks_count": 25069
+    "stargazers_count": 266804,
+    "open_issues_count": 328,
+    "forks_count": 25246
   },
   {
     "full_name": "igrek8/yarn-changed-workspaces",
@@ -67,13 +67,13 @@
   },
   {
     "full_name": "nuxt/nuxt",
-    "stargazers_count": 52385,
-    "open_issues_count": 1099,
-    "forks_count": 4791
+    "stargazers_count": 52445,
+    "open_issues_count": 1037,
+    "forks_count": 4795
   },
   {
     "full_name": "chakra-ui/chakra-ui-vue",
-    "stargazers_count": 1856,
+    "stargazers_count": 1858,
     "open_issues_count": 57,
     "forks_count": 137
   },
@@ -97,9 +97,9 @@
   },
   {
     "full_name": "moabukar/tech-vault",
-    "stargazers_count": 897,
+    "stargazers_count": 917,
     "open_issues_count": 1,
-    "forks_count": 71
+    "forks_count": 77
   },
   {
     "full_name": "nikhilagrwl07/System-Design",
@@ -109,21 +109,21 @@
   },
   {
     "full_name": "vercel/app-playground",
-    "stargazers_count": 2307,
+    "stargazers_count": 2310,
     "open_issues_count": 1,
-    "forks_count": 597
+    "forks_count": 598
   },
   {
     "full_name": "vercel/platforms",
-    "stargazers_count": 5273,
+    "stargazers_count": 5280,
     "open_issues_count": 42,
-    "forks_count": 669
+    "forks_count": 672
   },
   {
     "full_name": "shadcn-ui/taxonomy",
-    "stargazers_count": 17736,
-    "open_issues_count": 190,
-    "forks_count": 2423
+    "stargazers_count": 17749,
+    "open_issues_count": 192,
+    "forks_count": 2429
   },
   {
     "full_name": "vercel-labs/rsc-llm-on-the-edge",
@@ -145,9 +145,9 @@
   },
   {
     "full_name": "enaqx/awesome-react",
-    "stargazers_count": 62541,
-    "open_issues_count": 8,
-    "forks_count": 7079
+    "stargazers_count": 62602,
+    "open_issues_count": 9,
+    "forks_count": 7086
   },
   {
     "full_name": "philnash/react-web-audio",
@@ -169,14 +169,14 @@
   },
   {
     "full_name": "t3-oss/create-t3-turbo",
-    "stargazers_count": 4109,
-    "open_issues_count": 31,
-    "forks_count": 339
+    "stargazers_count": 4114,
+    "open_issues_count": 33,
+    "forks_count": 342
   },
   {
     "full_name": "epicweb-dev/data-modeling",
     "stargazers_count": 139,
     "open_issues_count": 0,
-    "forks_count": 57
+    "forks_count": 58
   }
 ]
