@@ -7,9 +7,9 @@
   },
   {
     "full_name": "Chainlit/chainlit",
-    "stargazers_count": 6529,
-    "open_issues_count": 382,
-    "forks_count": 833
+    "stargazers_count": 6552,
+    "open_issues_count": 388,
+    "forks_count": 835
   },
   {
     "full_name": "ryanflorence/rrv7-cf",
@@ -19,9 +19,9 @@
   },
   {
     "full_name": "expo/expo",
-    "stargazers_count": 31978,
-    "open_issues_count": 673,
-    "forks_count": 5066
+    "stargazers_count": 32113,
+    "open_issues_count": 679,
+    "forks_count": 5081
   },
   {
     "full_name": "mattpocock/typescript-node",
@@ -31,26 +31,26 @@
   },
   {
     "full_name": "vitejs/vite",
-    "stargazers_count": 66678,
-    "open_issues_count": 612,
-    "forks_count": 5975
+    "stargazers_count": 66741,
+    "open_issues_count": 617,
+    "forks_count": 5984
   },
   {
     "full_name": "kiliman/tailwindui-crawler",
-    "stargazers_count": 760,
+    "stargazers_count": 761,
     "open_issues_count": 3,
     "forks_count": 95
   },
   {
     "full_name": "vitejs/awesome-vite",
-    "stargazers_count": 13821,
-    "open_issues_count": 43,
-    "forks_count": 1100
+    "stargazers_count": 13843,
+    "open_issues_count": 39,
+    "forks_count": 1102
   },
   {
     "full_name": "icflorescu/mantine-datatable",
-    "stargazers_count": 888,
-    "open_issues_count": 16,
+    "stargazers_count": 890,
+    "open_issues_count": 17,
     "forks_count": 67
   },
   {
@@ -67,9 +67,9 @@
   },
   {
     "full_name": "codecrafters-io/build-your-own-x",
-    "stargazers_count": 294567,
-    "open_issues_count": 334,
-    "forks_count": 27650
+    "stargazers_count": 295617,
+    "open_issues_count": 333,
+    "forks_count": 27744
   },
   {
     "full_name": "igrek8/yarn-changed-workspaces",
@@ -81,17 +81,17 @@
     "full_name": "leerob/nextjs-postgres-email-client",
     "stargazers_count": 536,
     "open_issues_count": 1,
-    "forks_count": 87
+    "forks_count": 88
   },
   {
     "full_name": "nuxt/nuxt",
-    "stargazers_count": 53693,
-    "open_issues_count": 833,
-    "forks_count": 4913
+    "stargazers_count": 53732,
+    "open_issues_count": 823,
+    "forks_count": 4918
   },
   {
     "full_name": "chakra-ui/chakra-ui-vue",
-    "stargazers_count": 1862,
+    "stargazers_count": 1861,
     "open_issues_count": 57,
     "forks_count": 136
   },
@@ -115,7 +115,7 @@
   },
   {
     "full_name": "moabukar/tech-vault",
-    "stargazers_count": 963,
+    "stargazers_count": 964,
     "open_issues_count": 2,
     "forks_count": 94
   },
@@ -127,19 +127,19 @@
   },
   {
     "full_name": "vercel/next-app-router-playground",
-    "stargazers_count": 2480,
+    "stargazers_count": 2485,
     "open_issues_count": 1,
-    "forks_count": 628
+    "forks_count": 626
   },
   {
     "full_name": "vercel/platforms",
-    "stargazers_count": 5499,
-    "open_issues_count": 50,
-    "forks_count": 704
+    "stargazers_count": 5507,
+    "open_issues_count": 53,
+    "forks_count": 707
   },
   {
     "full_name": "shadcn-ui/taxonomy",
-    "stargazers_count": 18184,
+    "stargazers_count": 18206,
     "open_issues_count": 211,
     "forks_count": 2529
   },
@@ -163,9 +163,9 @@
   },
   {
     "full_name": "enaqx/awesome-react",
-    "stargazers_count": 63863,
+    "stargazers_count": 63971,
     "open_issues_count": 14,
-    "forks_count": 7130
+    "forks_count": 7134
   },
   {
     "full_name": "philnash/react-web-audio",
@@ -177,6 +177,6 @@
     "full_name": "sivan/javascript-style-guide",
     "stargazers_count": 2006,
     "open_issues_count": 1,
-    "forks_count": 483
+    "forks_count": 482
   }
 ]
