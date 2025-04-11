@@ -1,13 +1,13 @@
 [
   {
     "full_name": "github/github-mcp-server",
-    "stargazers_count": 6707,
-    "open_issues_count": 44,
-    "forks_count": 313
+    "stargazers_count": 10560,
+    "open_issues_count": 61,
+    "forks_count": 490
   },
   {
     "full_name": "giacomo-b/rust-stakeholder",
-    "stargazers_count": 2258,
+    "stargazers_count": 2278,
     "open_issues_count": 10,
     "forks_count": 47
   },
@@ -15,53 +15,53 @@
     "full_name": "antfu/starter-monorepo",
     "stargazers_count": 59,
     "open_issues_count": 0,
-    "forks_count": 7
+    "forks_count": 8
   },
   {
     "full_name": "unplugin/unplugin-vue",
     "stargazers_count": 216,
-    "open_issues_count": 5,
+    "open_issues_count": 4,
     "forks_count": 12
   },
   {
     "full_name": "typesense/typesense",
-    "stargazers_count": 22700,
-    "open_issues_count": 656,
-    "forks_count": 708
+    "stargazers_count": 22729,
+    "open_issues_count": 654,
+    "forks_count": 709
   },
   {
     "full_name": "deepseek-ai/awesome-deepseek-integration",
-    "stargazers_count": 31186,
-    "open_issues_count": 111,
-    "forks_count": 3397
+    "stargazers_count": 31360,
+    "open_issues_count": 108,
+    "forks_count": 3414
   },
   {
     "full_name": "unslothai/unsloth",
-    "stargazers_count": 36724,
-    "open_issues_count": 989,
-    "forks_count": 2851
+    "stargazers_count": 36915,
+    "open_issues_count": 1001,
+    "forks_count": 2870
   },
   {
     "full_name": "lobehub/lobe-chat",
-    "stargazers_count": 58635,
-    "open_issues_count": 722,
-    "forks_count": 12428
+    "stargazers_count": 58729,
+    "open_issues_count": 721,
+    "forks_count": 12446
   },
   {
     "full_name": "microsoft/terminal",
-    "stargazers_count": 97639,
-    "open_issues_count": 1665,
-    "forks_count": 8520
+    "stargazers_count": 97661,
+    "open_issues_count": 1659,
+    "forks_count": 8521
   },
   {
     "full_name": "Mintplex-Labs/anything-llm",
-    "stargazers_count": 42422,
-    "open_issues_count": 264,
-    "forks_count": 4101
+    "stargazers_count": 42616,
+    "open_issues_count": 270,
+    "forks_count": 4122
   },
   {
     "full_name": "mertJF/tailblocks",
-    "stargazers_count": 8818,
+    "stargazers_count": 8820,
     "open_issues_count": 47,
     "forks_count": 838
   },
@@ -73,51 +73,51 @@
   },
   {
     "full_name": "vuejs/core",
-    "stargazers_count": 49562,
-    "open_issues_count": 1048,
-    "forks_count": 8586
+    "stargazers_count": 49611,
+    "open_issues_count": 1056,
+    "forks_count": 8591
   },
   {
     "full_name": "motiondivision/motion",
-    "stargazers_count": 28042,
-    "open_issues_count": 272,
+    "stargazers_count": 28105,
+    "open_issues_count": 276,
     "forks_count": 930
   },
   {
     "full_name": "Milesight-IoT/beaver-iot",
     "stargazers_count": 41,
-    "open_issues_count": 2,
+    "open_issues_count": 1,
     "forks_count": 1
   },
   {
     "full_name": "vercel/next-learn",
-    "stargazers_count": 4271,
-    "open_issues_count": 104,
-    "forks_count": 2054
+    "stargazers_count": 4274,
+    "open_issues_count": 103,
+    "forks_count": 2057
   },
   {
     "full_name": "vercel/ai-chatbot",
-    "stargazers_count": 14488,
-    "open_issues_count": 277,
-    "forks_count": 3838
+    "stargazers_count": 14605,
+    "open_issues_count": 280,
+    "forks_count": 3896
   },
   {
     "full_name": "vercel/vercel",
-    "stargazers_count": 13465,
-    "open_issues_count": 244,
-    "forks_count": 2477
+    "stargazers_count": 13476,
+    "open_issues_count": 236,
+    "forks_count": 2484
   },
   {
     "full_name": "vercel/turborepo",
-    "stargazers_count": 27399,
-    "open_issues_count": 139,
-    "forks_count": 1956
+    "stargazers_count": 27424,
+    "open_issues_count": 135,
+    "forks_count": 1955
   },
   {
     "full_name": "vercel/next.js",
-    "stargazers_count": 130877,
-    "open_issues_count": 3186,
-    "forks_count": 28079
+    "stargazers_count": 130963,
+    "open_issues_count": 3176,
+    "forks_count": 28109
   },
   {
     "full_name": "phryneas/remark-typescript-tools",
@@ -127,8 +127,8 @@
   },
   {
     "full_name": "bddicken/languages",
-    "stargazers_count": 1651,
-    "open_issues_count": 38,
+    "stargazers_count": 1654,
+    "open_issues_count": 39,
     "forks_count": 337
   },
   {
@@ -145,21 +145,21 @@
   },
   {
     "full_name": "drizzle-team/drizzle-orm",
-    "stargazers_count": 27354,
-    "open_issues_count": 1458,
-    "forks_count": 820
+    "stargazers_count": 27417,
+    "open_issues_count": 1457,
+    "forks_count": 823
   },
   {
     "full_name": "ladjs/supertest",
-    "stargazers_count": 13971,
+    "stargazers_count": 13974,
     "open_issues_count": 182,
     "forks_count": 764
   },
   {
     "full_name": "openai/openai-cookbook",
-    "stargazers_count": 62692,
-    "open_issues_count": 75,
-    "forks_count": 10171
+    "stargazers_count": 62738,
+    "open_issues_count": 73,
+    "forks_count": 10181
   },
   {
     "full_name": "Chinwike1/nativewind-sandbox",
