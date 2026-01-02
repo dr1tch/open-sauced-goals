@@ -1,21 +1,21 @@
 [
   {
     "full_name": "hmans/beans",
-    "stargazers_count": 127,
-    "open_issues_count": 7,
+    "stargazers_count": 136,
+    "open_issues_count": 10,
     "forks_count": 7
   },
   {
     "full_name": "gaearon/rscexplorer",
-    "stargazers_count": 890,
-    "open_issues_count": 0,
+    "stargazers_count": 898,
+    "open_issues_count": 1,
     "forks_count": 26
   },
   {
     "full_name": "langchain-ai/langgraphjs",
-    "stargazers_count": 2390,
-    "open_issues_count": 90,
-    "forks_count": 368
+    "stargazers_count": 2399,
+    "open_issues_count": 91,
+    "forks_count": 369
   },
   {
     "full_name": "jwagner/simplex-noise.js",
@@ -31,15 +31,15 @@
   },
   {
     "full_name": "langchain-ai/langchainjs",
-    "stargazers_count": 16637,
-    "open_issues_count": 173,
-    "forks_count": 2932
+    "stargazers_count": 16659,
+    "open_issues_count": 177,
+    "forks_count": 2934
   },
   {
     "full_name": "slidevjs/slidev",
-    "stargazers_count": 43399,
+    "stargazers_count": 43427,
     "open_issues_count": 173,
-    "forks_count": 1862
+    "forks_count": 1863
   },
   {
     "full_name": "Abdelhak-Bahri/Hidden-Eye",
@@ -49,9 +49,9 @@
   },
   {
     "full_name": "ByteByteGoHq/system-design-101",
-    "stargazers_count": 78656,
+    "stargazers_count": 78693,
     "open_issues_count": 54,
-    "forks_count": 8590
+    "forks_count": 8594
   },
   {
     "full_name": "tonywagner/EPlusTV",
@@ -61,15 +61,15 @@
   },
   {
     "full_name": "Free-TV/IPTV",
-    "stargazers_count": 9041,
-    "open_issues_count": 132,
-    "forks_count": 1597
+    "stargazers_count": 9100,
+    "open_issues_count": 133,
+    "forks_count": 1616
   },
   {
     "full_name": "iptv-org/iptv",
-    "stargazers_count": 107493,
-    "open_issues_count": 319,
-    "forks_count": 5113
+    "stargazers_count": 108132,
+    "open_issues_count": 323,
+    "forks_count": 5181
   },
   {
     "full_name": "supabase/functions-js",
@@ -91,9 +91,9 @@
   },
   {
     "full_name": "imgproxy/imgproxy",
-    "stargazers_count": 10244,
+    "stargazers_count": 10249,
     "open_issues_count": 77,
-    "forks_count": 709
+    "forks_count": 710
   },
   {
     "full_name": "sdras/cssgridgenerator",
@@ -103,9 +103,9 @@
   },
   {
     "full_name": "supabase/supabase-js",
-    "stargazers_count": 4194,
-    "open_issues_count": 251,
-    "forks_count": 550
+    "stargazers_count": 4200,
+    "open_issues_count": 254,
+    "forks_count": 552
   },
   {
     "full_name": "pyroprompts/any-chat-completions-mcp",
@@ -115,31 +115,31 @@
   },
   {
     "full_name": "punkpeye/awesome-mcp-servers",
-    "stargazers_count": 77793,
-    "open_issues_count": 184,
-    "forks_count": 6663
+    "stargazers_count": 77964,
+    "open_issues_count": 195,
+    "forks_count": 6682
   },
   {
     "full_name": "modelcontextprotocol/servers",
-    "stargazers_count": 75208,
-    "open_issues_count": 256,
-    "forks_count": 9127
+    "stargazers_count": 75340,
+    "open_issues_count": 262,
+    "forks_count": 9135
   },
   {
     "full_name": "modelcontextprotocol/typescript-sdk",
-    "stargazers_count": 11155,
-    "open_issues_count": 255,
-    "forks_count": 1531
+    "stargazers_count": 11176,
+    "open_issues_count": 258,
+    "forks_count": 1534
   },
   {
     "full_name": "github/github-mcp-server",
-    "stargazers_count": 25508,
-    "open_issues_count": 250,
-    "forks_count": 3285
+    "stargazers_count": 25573,
+    "open_issues_count": 252,
+    "forks_count": 3299
   },
   {
     "full_name": "giacomo-b/rust-stakeholder",
-    "stargazers_count": 2538,
+    "stargazers_count": 2539,
     "open_issues_count": 12,
     "forks_count": 51
   },
@@ -157,26 +157,26 @@
   },
   {
     "full_name": "typesense/typesense",
-    "stargazers_count": 24880,
-    "open_issues_count": 750,
-    "forks_count": 842
+    "stargazers_count": 24908,
+    "open_issues_count": 755,
+    "forks_count": 844
   },
   {
     "full_name": "deepseek-ai/awesome-deepseek-integration",
-    "stargazers_count": 34882,
-    "open_issues_count": 145,
-    "forks_count": 3909
+    "stargazers_count": 34927,
+    "open_issues_count": 146,
+    "forks_count": 3917
   },
   {
     "full_name": "unslothai/unsloth",
-    "stargazers_count": 50030,
-    "open_issues_count": 906,
-    "forks_count": 4134
+    "stargazers_count": 50227,
+    "open_issues_count": 905,
+    "forks_count": 4145
   },
   {
     "full_name": "lobehub/lobe-chat",
-    "stargazers_count": 69595,
-    "open_issues_count": 1158,
-    "forks_count": 14295
+    "stargazers_count": 69697,
+    "open_issues_count": 1114,
+    "forks_count": 14330
   }
 ]
