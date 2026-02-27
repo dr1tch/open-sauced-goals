@@ -1,21 +1,21 @@
 [
   {
     "full_name": "hmans/beans",
-    "stargazers_count": 509,
+    "stargazers_count": 521,
     "open_issues_count": 29,
-    "forks_count": 31
+    "forks_count": 32
   },
   {
     "full_name": "gaearon/rscexplorer",
-    "stargazers_count": 1067,
+    "stargazers_count": 1069,
     "open_issues_count": 0,
     "forks_count": 28
   },
   {
     "full_name": "langchain-ai/langgraphjs",
-    "stargazers_count": 2562,
-    "open_issues_count": 117,
-    "forks_count": 410
+    "stargazers_count": 2578,
+    "open_issues_count": 112,
+    "forks_count": 412
   },
   {
     "full_name": "jwagner/simplex-noise.js",
@@ -25,21 +25,21 @@
   },
   {
     "full_name": "VapiAI/client-sdk-web",
-    "stargazers_count": 56,
+    "stargazers_count": 57,
     "open_issues_count": 41,
     "forks_count": 29
   },
   {
     "full_name": "langchain-ai/langchainjs",
-    "stargazers_count": 17021,
-    "open_issues_count": 233,
-    "forks_count": 3024
+    "stargazers_count": 17046,
+    "open_issues_count": 232,
+    "forks_count": 3028
   },
   {
     "full_name": "slidevjs/slidev",
-    "stargazers_count": 44435,
-    "open_issues_count": 179,
-    "forks_count": 1933
+    "stargazers_count": 44508,
+    "open_issues_count": 180,
+    "forks_count": 1941
   },
   {
     "full_name": "Abdelhak-Bahri/Hidden-Eye",
@@ -49,27 +49,27 @@
   },
   {
     "full_name": "ByteByteGoHq/system-design-101",
-    "stargazers_count": 79780,
-    "open_issues_count": 57,
-    "forks_count": 8745
+    "stargazers_count": 79847,
+    "open_issues_count": 58,
+    "forks_count": 8754
   },
   {
     "full_name": "tonywagner/EPlusTV",
     "stargazers_count": 256,
-    "open_issues_count": 34,
+    "open_issues_count": 33,
     "forks_count": 47
   },
   {
     "full_name": "Free-TV/IPTV",
-    "stargazers_count": 14124,
-    "open_issues_count": 160,
-    "forks_count": 2051
+    "stargazers_count": 14174,
+    "open_issues_count": 165,
+    "forks_count": 2072
   },
   {
     "full_name": "iptv-org/iptv",
-    "stargazers_count": 111946,
-    "open_issues_count": 345,
-    "forks_count": 5631
+    "stargazers_count": 112069,
+    "open_issues_count": 326,
+    "forks_count": 5627
   },
   {
     "full_name": "supabase/functions-js",
@@ -79,7 +79,7 @@
   },
   {
     "full_name": "rgalus/sticky-js",
-    "stargazers_count": 731,
+    "stargazers_count": 729,
     "open_issues_count": 56,
     "forks_count": 189
   },
@@ -91,21 +91,21 @@
   },
   {
     "full_name": "imgproxy/imgproxy",
-    "stargazers_count": 10461,
-    "open_issues_count": 85,
-    "forks_count": 727
+    "stargazers_count": 10464,
+    "open_issues_count": 83,
+    "forks_count": 726
   },
   {
     "full_name": "sdras/cssgridgenerator",
-    "stargazers_count": 5342,
+    "stargazers_count": 5343,
     "open_issues_count": 46,
-    "forks_count": 573
+    "forks_count": 574
   },
   {
     "full_name": "supabase/supabase-js",
-    "stargazers_count": 4323,
-    "open_issues_count": 173,
-    "forks_count": 601
+    "stargazers_count": 4329,
+    "open_issues_count": 169,
+    "forks_count": 602
   },
   {
     "full_name": "pyroprompts/any-chat-completions-mcp",
@@ -115,31 +115,31 @@
   },
   {
     "full_name": "punkpeye/awesome-mcp-servers",
-    "stargazers_count": 81446,
-    "open_issues_count": 438,
-    "forks_count": 7466
+    "stargazers_count": 81671,
+    "open_issues_count": 543,
+    "forks_count": 7582
   },
   {
     "full_name": "modelcontextprotocol/servers",
-    "stargazers_count": 79221,
-    "open_issues_count": 365,
-    "forks_count": 9624
+    "stargazers_count": 79517,
+    "open_issues_count": 390,
+    "forks_count": 9674
   },
   {
     "full_name": "modelcontextprotocol/typescript-sdk",
-    "stargazers_count": 11658,
-    "open_issues_count": 323,
-    "forks_count": 1628
+    "stargazers_count": 11683,
+    "open_issues_count": 327,
+    "forks_count": 1634
   },
   {
     "full_name": "github/github-mcp-server",
-    "stargazers_count": 27192,
-    "open_issues_count": 289,
-    "forks_count": 3626
+    "stargazers_count": 27285,
+    "open_issues_count": 293,
+    "forks_count": 3641
   },
   {
     "full_name": "giacomo-b/rust-stakeholder",
-    "stargazers_count": 2556,
+    "stargazers_count": 2561,
     "open_issues_count": 12,
     "forks_count": 52
   },
@@ -157,26 +157,26 @@
   },
   {
     "full_name": "typesense/typesense",
-    "stargazers_count": 25264,
-    "open_issues_count": 751,
-    "forks_count": 860
+    "stargazers_count": 25281,
+    "open_issues_count": 757,
+    "forks_count": 861
   },
   {
     "full_name": "deepseek-ai/awesome-deepseek-integration",
-    "stargazers_count": 35541,
-    "open_issues_count": 4,
-    "forks_count": 3958
+    "stargazers_count": 35684,
+    "open_issues_count": 10,
+    "forks_count": 3972
   },
   {
     "full_name": "unslothai/unsloth",
-    "stargazers_count": 52663,
+    "stargazers_count": 52801,
     "open_issues_count": 964,
-    "forks_count": 4371
+    "forks_count": 4385
   },
   {
     "full_name": "lobehub/lobehub",
-    "stargazers_count": 72554,
-    "open_issues_count": 813,
-    "forks_count": 14669
+    "stargazers_count": 72711,
+    "open_issues_count": 828,
+    "forks_count": 14685
   }
 ]
