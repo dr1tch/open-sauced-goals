@@ -1,15 +1,15 @@
 [
   {
     "full_name": "zenbu-labs/zenbu.js",
-    "stargazers_count": 222,
+    "stargazers_count": 225,
     "open_issues_count": 11,
-    "forks_count": 10
+    "forks_count": 11
   },
   {
     "full_name": "dwgx/WindsurfAPI",
-    "stargazers_count": 2679,
-    "open_issues_count": 21,
-    "forks_count": 570
+    "stargazers_count": 2774,
+    "open_issues_count": 18,
+    "forks_count": 587
   },
   {
     "full_name": "1weiho/next-lens",
@@ -25,9 +25,9 @@
   },
   {
     "full_name": "1weiho/open-slide",
-    "stargazers_count": 4420,
-    "open_issues_count": 28,
-    "forks_count": 302
+    "stargazers_count": 4729,
+    "open_issues_count": 31,
+    "forks_count": 324
   },
   {
     "full_name": "hadnet/vscode-islands-dark-settings",
@@ -37,61 +37,61 @@
   },
   {
     "full_name": "bwya77/vscode-dark-islands",
-    "stargazers_count": 8558,
+    "stargazers_count": 8573,
     "open_issues_count": 67,
     "forks_count": 272
   },
   {
     "full_name": "thedotmack/claude-mem",
-    "stargazers_count": 80109,
-    "open_issues_count": 141,
-    "forks_count": 6897
+    "stargazers_count": 80687,
+    "open_issues_count": 122,
+    "forks_count": 6943
   },
   {
     "full_name": "obra/superpowers",
-    "stargazers_count": 214890,
-    "open_issues_count": 280,
-    "forks_count": 19144
+    "stargazers_count": 218033,
+    "open_issues_count": 260,
+    "forks_count": 19410
   },
   {
     "full_name": "aaif-goose/goose",
-    "stargazers_count": 46184,
-    "open_issues_count": 258,
-    "forks_count": 4784
+    "stargazers_count": 46521,
+    "open_issues_count": 276,
+    "forks_count": 4855
   },
   {
     "full_name": "dair-ai/Prompt-Engineering-Guide",
-    "stargazers_count": 75159,
+    "stargazers_count": 75303,
     "open_issues_count": 266,
-    "forks_count": 8139
+    "forks_count": 8174
   },
   {
     "full_name": "safishamsi/graphify",
-    "stargazers_count": 57969,
-    "open_issues_count": 279,
-    "forks_count": 6060
+    "stargazers_count": 59387,
+    "open_issues_count": 289,
+    "forks_count": 6182
   },
   {
     "full_name": "affaan-m/ECC",
-    "stargazers_count": 202312,
-    "open_issues_count": 53,
-    "forks_count": 31036
+    "stargazers_count": 207337,
+    "open_issues_count": 79,
+    "forks_count": 31831
   },
   {
     "full_name": "slavingia/skills",
-    "stargazers_count": 8939,
+    "stargazers_count": 9003,
     "open_issues_count": 0,
-    "forks_count": 917
+    "forks_count": 925
   },
   {
     "full_name": "luongnv89/claude-howto",
-    "stargazers_count": 34776,
-    "open_issues_count": 31,
-    "forks_count": 4234
+    "stargazers_count": 34967,
+    "open_issues_count": 30,
+    "forks_count": 4252
   },
   {
     "full_name": "oh-my-mermaid/oh-my-mermaid",
-    "stargazers_count": 1257,
+    "stargazers_count": 1261,
     "open_issues_count": 6,
     "forks_count": 113
   },
@@ -103,26 +103,26 @@
   },
   {
     "full_name": "shanraisshan/claude-code-best-practice",
-    "stargazers_count": 55924,
-    "open_issues_count": 12,
-    "forks_count": 5616
+    "stargazers_count": 56424,
+    "open_issues_count": 8,
+    "forks_count": 5671
   },
   {
     "full_name": "hmans/beans",
-    "stargazers_count": 796,
+    "stargazers_count": 810,
     "open_issues_count": 48,
     "forks_count": 52
   },
   {
     "full_name": "gaearon/rscexplorer",
-    "stargazers_count": 1097,
+    "stargazers_count": 1098,
     "open_issues_count": 1,
     "forks_count": 30
   },
   {
     "full_name": "langchain-ai/langgraphjs",
-    "stargazers_count": 2974,
-    "open_issues_count": 111,
+    "stargazers_count": 2982,
+    "open_issues_count": 103,
     "forks_count": 499
   },
   {
@@ -133,21 +133,21 @@
   },
   {
     "full_name": "VapiAI/client-sdk-web",
-    "stargazers_count": 62,
-    "open_issues_count": 47,
+    "stargazers_count": 61,
+    "open_issues_count": 46,
     "forks_count": 35
   },
   {
     "full_name": "langchain-ai/langchainjs",
-    "stargazers_count": 17739,
-    "open_issues_count": 340,
-    "forks_count": 3193
+    "stargazers_count": 17761,
+    "open_issues_count": 336,
+    "forks_count": 3196
   },
   {
     "full_name": "slidevjs/slidev",
-    "stargazers_count": 46900,
-    "open_issues_count": 187,
-    "forks_count": 2084
+    "stargazers_count": 46981,
+    "open_issues_count": 188,
+    "forks_count": 2091
   },
   {
     "full_name": "Abdelhak-Bahri/Hidden-Eye",
@@ -157,9 +157,9 @@
   },
   {
     "full_name": "ByteByteGoHq/system-design-101",
-    "stargazers_count": 82942,
-    "open_issues_count": 64,
-    "forks_count": 9182
+    "stargazers_count": 83217,
+    "open_issues_count": 65,
+    "forks_count": 9214
   },
   {
     "full_name": "tonywagner/EPlusTV",
@@ -169,14 +169,14 @@
   },
   {
     "full_name": "Free-TV/IPTV",
-    "stargazers_count": 16548,
-    "open_issues_count": 207,
-    "forks_count": 2469
+    "stargazers_count": 16578,
+    "open_issues_count": 209,
+    "forks_count": 2479
   },
   {
     "full_name": "iptv-org/iptv",
-    "stargazers_count": 116742,
-    "open_issues_count": 18,
-    "forks_count": 6203
+    "stargazers_count": 116832,
+    "open_issues_count": 28,
+    "forks_count": 6208
   }
 ]
